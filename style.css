@@ -66,7 +66,7 @@ article img {
   border-radius: 6px;
 }
 
-boton {
+.boton {
   display: inline-block;
   padding: 10px 20px;
   background-color: rgb(54,59,150);
@@ -75,7 +75,7 @@ boton {
   border-radius: 5px;
   font-weight: bold;
 }
-boton-esquina {
+.boton-esquina {
   position: fixed;
   top: 1px;      
   left: 1px;      
