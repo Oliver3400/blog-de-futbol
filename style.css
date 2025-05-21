@@ -75,7 +75,7 @@ article img {
   border-radius: 5px;
   font-weight: bold;
 }
-boton-esquina {
+.boton-esquina {
   position: fixed;
   top: 1px;      
   left: 1px;      
